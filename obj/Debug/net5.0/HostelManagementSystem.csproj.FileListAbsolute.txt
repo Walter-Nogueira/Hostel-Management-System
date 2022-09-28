@@ -1,0 +1,16 @@
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\HostelManagementSystem\HostelManagementSystem\bin\Debug\net5.0\HostelManagementSystem.exe
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\HostelManagementSystem\HostelManagementSystem\bin\Debug\net5.0\HostelManagementSystem.deps.json
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\HostelManagementSystem\HostelManagementSystem\bin\Debug\net5.0\HostelManagementSystem.runtimeconfig.json
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\HostelManagementSystem\HostelManagementSystem\bin\Debug\net5.0\HostelManagementSystem.runtimeconfig.dev.json
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\HostelManagementSystem\HostelManagementSystem\bin\Debug\net5.0\HostelManagementSystem.dll
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\HostelManagementSystem\HostelManagementSystem\bin\Debug\net5.0\HostelManagementSystem.pdb
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\HostelManagementSystem\HostelManagementSystem\obj\Debug\net5.0\HostelManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\HostelManagementSystem\HostelManagementSystem\obj\Debug\net5.0\HostelManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\HostelManagementSystem\HostelManagementSystem\obj\Debug\net5.0\HostelManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\HostelManagementSystem\HostelManagementSystem\obj\Debug\net5.0\HostelManagementSystem.AssemblyInfo.cs
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\HostelManagementSystem\HostelManagementSystem\obj\Debug\net5.0\HostelManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\HostelManagementSystem\HostelManagementSystem\obj\Debug\net5.0\HostelManagementSystem.dll
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\HostelManagementSystem\HostelManagementSystem\obj\Debug\net5.0\refint\HostelManagementSystem.dll
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\HostelManagementSystem\HostelManagementSystem\obj\Debug\net5.0\HostelManagementSystem.pdb
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\HostelManagementSystem\HostelManagementSystem\obj\Debug\net5.0\HostelManagementSystem.genruntimeconfig.cache
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\HostelManagementSystem\HostelManagementSystem\obj\Debug\net5.0\ref\HostelManagementSystem.dll
